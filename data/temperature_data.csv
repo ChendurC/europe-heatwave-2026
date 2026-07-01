@@ -1,0 +1,13 @@
+country,country_code,peak_temp_2026,avg_temp_2026,historical_avg,temp_anomaly,days_above_35c,days_above_40c,crisis_level
+Spain,ES,39.3,20.0,21.4,-1.4,9,0,Moderate
+France,FR,40.3,17.0,16.5,0.5,8,1,Severe
+Italy,IT,37.8,20.7,21.9,-1.2,11,0,Moderate
+Greece,GR,36.2,20.2,22.7,-2.5,2,0,Moderate
+Portugal,PT,35.5,20.3,20.3,0.0,2,0,Moderate
+Germany,DE,39.8,12.8,14.6,-1.8,2,0,Moderate
+Croatia,HR,36.8,16.0,17.3,-1.3,4,0,Moderate
+Turkey,TR,32.5,14.8,19.0,-4.2,0,0,Low
+UK,GB,36.0,15.2,15.0,0.2,1,0,Moderate
+Netherlands,NL,35.0,13.4,14.3,-0.9,1,0,Moderate
+Belgium,BE,37.0,15.1,15.1,0.0,3,0,Moderate
+Switzerland,CH,35.5,14.5,14.6,-0.1,2,0,Moderate

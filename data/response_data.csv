@@ -1,0 +1,13 @@
+country,cooling_centres,emergency_budget_mn,alert_system,response_score,water_stations
+Spain,1840,850,Yes,78,3200
+France,2100,1200,Yes,82,4100
+Italy,1650,920,Yes,74,2800
+Greece,620,310,Yes,65,980
+Portugal,780,420,Yes,70,1200
+Germany,1200,680,Yes,85,2100
+Croatia,290,95,No,45,420
+Turkey,980,540,Yes,60,1600
+UK,450,380,Yes,72,890
+Netherlands,380,210,No,68,650
+Belgium,310,175,No,65,520
+Switzerland,220,140,Yes,80,380

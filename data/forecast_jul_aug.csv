@@ -1,0 +1,13 @@
+country,country_code,predicted_peak_jul_aug,confidence_upper,confidence_lower,hist_avg_jul_aug,predicted_anomaly,trend_per_year
+Spain,ES,41.1,42.3,39.9,39.2,1.9,0.211
+France,FR,35.0,39.5,30.5,36.7,-1.7,-0.148
+Italy,IT,39.7,41.4,38.1,37.4,2.3,0.253
+Greece,GR,41.2,44.8,37.6,37.8,3.4,0.353
+Portugal,PT,39.6,44.8,34.4,33.2,6.4,0.799
+Germany,DE,34.7,38.3,31.1,35.0,-0.3,-0.009
+Croatia,HR,34.6,37.3,31.9,36.1,-1.5,-0.185
+Turkey,TR,38.8,41.2,36.4,38.0,0.8,0.126
+UK,GB,32.2,36.8,27.6,32.0,0.2,0.025
+Netherlands,NL,30.8,35.6,26.0,32.6,-1.8,-0.129
+Belgium,BE,33.0,38.2,27.8,34.1,-1.1,-0.052
+Switzerland,CH,32.8,35.9,29.6,33.3,-0.5,-0.06
